@@ -1,3 +1,1 @@
-## Overview: Dominic Phung
-
-This repository consists of a number of projects I've worked on over the years (some are recent, like `teenybasic_compiler`, and others are old, like those in `roblox_reverse_engineering`). Each project has its own specialized README file.
+Oops! It looks like you were looking for my code portfolio but stumbled on the wrong branch. The correct branch is here: [https://github.com/optdxf/portfolio_22-23/tree/main](https://github.com/optdxf/portfolio_22-23/tree/main)
