@@ -1,4 +1,0 @@
-Invalid heap access: address 0x1000334d2 is not in an allocation or was already freed
-at bin/hello_use_after_free4(main+0x48)
-main
-hello_use_after_free4.c:10

@@ -1,4 +1,0 @@
-Invalid heap access: address 0x100002000 is not in an allocation or was already freed
-at bin/hello_overflow2(main+0x2d)
-main
-hello_overflow2.c:7

@@ -1,7 +1,0 @@
-Double free(): allocation of 66720 bytes at 0x1042b9b60 was already freed
-at bin/random_trace_double_free(run_free+0xb7)
-run_free
-malloc_driver.h:64
-at bin/random_trace_double_free(main+0x62)
-main
-malloc_driver.h:75
