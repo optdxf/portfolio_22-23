@@ -1,0 +1,4 @@
+Invalid heap access: address 0x100000ff3 is not in an allocation or was already freed
+at bin/hello_header_after_free(main+0x4f)
+main
+hello_header_after_free.c:10

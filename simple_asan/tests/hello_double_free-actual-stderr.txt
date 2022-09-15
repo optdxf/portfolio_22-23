@@ -1,0 +1,4 @@
+Double free(): allocation of 100 bytes at 0x100001f9c was already freed
+at bin/hello_double_free(main+0x50)
+main
+hello_double_free.c:10

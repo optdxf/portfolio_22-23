@@ -1,0 +1,4 @@
+Segmentation fault: unknown address 0x100005000
+at bin/hello_access_after_heap(main+0x4a)
+main
+hello_access_after_heap.c:9

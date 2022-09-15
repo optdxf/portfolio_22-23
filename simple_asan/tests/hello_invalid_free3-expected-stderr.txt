@@ -1,0 +1,4 @@
+Invalid free(): 0x100001f92 is not an allocation
+at bin/hello_invalid_free3(main+0x53)
+main
+hello_invalid_free3.c:9

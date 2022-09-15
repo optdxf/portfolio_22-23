@@ -1,0 +1,7 @@
+Invalid heap access: address 0x100001f9c is not in an allocation or was already freed
+at /lib/x86_64-linux-gnu/libc.so.6(+0x189e58)
+__strcpy_avx2
+strcpy-avx2.S:612
+at bin/hello_use_after_free1(main+0x32)
+main
+hello_use_after_free1.c:7

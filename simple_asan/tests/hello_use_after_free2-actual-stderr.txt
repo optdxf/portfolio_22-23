@@ -1,0 +1,13 @@
+Invalid heap access: address 0x100001fd8 is not in an allocation or was already freed
+at /lib/x86_64-linux-gnu/libc.so.6(+0x1885f5)
+__strlen_avx2
+strlen-avx2.S:65
+at /lib/x86_64-linux-gnu/libc.so.6(+0x78d45)
+__vfprintf_internal
+vfprintf-internal.c:1688 (discriminator 87)
+at /lib/x86_64-linux-gnu/libc.so.6(_IO_printf+0xaf)
+??
+??:0
+at bin/hello_use_after_free2(main+0xab)
+main
+hello_use_after_free2.c:13

@@ -1,0 +1,4 @@
+Segmentation fault: unknown address (nil)
+at bin/hello_access_null(main+0x25)
+main
+hello_access_null.c:6

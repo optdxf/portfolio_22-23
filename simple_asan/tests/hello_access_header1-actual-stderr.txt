@@ -1,0 +1,4 @@
+Invalid heap access: address 0x100000000 is not in an allocation or was already freed
+at bin/hello_access_header1(main+0x39)
+main
+hello_access_header1.c:8

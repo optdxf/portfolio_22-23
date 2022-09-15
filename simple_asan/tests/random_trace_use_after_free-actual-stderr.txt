@@ -1,0 +1,7 @@
+Invalid heap access: address 0x10e599ed8 is not in an allocation or was already freed
+at bin/random_trace_use_after_free(run_free+0xe3)
+run_free
+malloc_driver.h:58
+at bin/random_trace_use_after_free(main+0x62)
+main
+malloc_driver.h:75

@@ -1,0 +1,4 @@
+Invalid heap access: address 0x100004fff is not in an allocation or was already freed
+at bin/hello_access_footer(main+0x39)
+main
+hello_access_footer.c:8

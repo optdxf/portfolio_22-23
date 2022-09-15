@@ -1,0 +1,4 @@
+Invalid free(): 0x12345678 is not an allocation
+at bin/hello_invalid_free4(main+0x20)
+main
+hello_invalid_free4.c:8

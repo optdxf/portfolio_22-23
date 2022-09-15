@@ -1,0 +1,4 @@
+Segmentation fault: unknown address 0xffffffff
+at bin/hello_access_before_heap(main+0x39)
+main
+hello_access_before_heap.c:8
