@@ -1,5 +1,7 @@
 This repository contains some pretty old projects (~2017) of mine related to reverse engineering/game security (mostly related to Roblox). They're old projects b/c that's when I first started to get into RE before stopping for a while to pursue game development.
 
+**Note:** These are all proof of concepts and were never used to exploit actual games.
+
 ## Overview (oldest -> newest)
 - rift_vm (C++): script execution exploit for the Roblox engine
 - lua_wrapper (C++): same as above (different method), newer
